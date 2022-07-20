@@ -1,5 +1,5 @@
 # Tạo ra giao diện cho một số trang web ở trên:
-- Gồm 3 giao diện cho trong 3 thư mục trên:
+* Gồm 3 giao diện cho trong 3 thư mục trên:
         <li> Mỗi thư mục gồm file index.html, main.css</li>
         <li> Giao diện đơn giản để thực hành</li>
         <li>Luyện tập code và nhớ các lệnh trong html, css</li>
